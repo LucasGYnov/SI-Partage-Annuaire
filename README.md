@@ -1,7 +1,7 @@
-# Projet SI de mise en place d'un serveur de fichiers avec Samba et Webmin
+# Projet SI - Mise en place d'un serveur (Partage de fichiers)
 
 ## Contexte Global
-Ce projet permet l’évaluation des compétences acquises grâce aux modules de l’UF « Infrastructure & Système d’information ». Pour ce faire, ce projet devra être réalisé en groupe de 2. Vous pouvez soumettre un projet personnel dont le contenu et les fonctionnalités devront être validés par l’établissement. Si vous n’avez pas d’idée de projet, vous avez le choix parmi une liste de projets proposés dans la partie « Projets au choix ».
+Ce projet permet l’évaluation des compétences acquises grâce aux modules de l’UF « Infrastructure & Système d’information », par groupe de 2.
 
 ## Choix du Projet : Partage de Fichiers avec Annuaire
 Le projet "Partage Réseau + Annuaire" vise à créer un système de partage de fichiers sécurisé et efficace au sein d'un réseau local. Il a pour but de mettre en place un réseau permettant aux utilisateurs un accès centralisé et contrôlé aux ressources partagées, tout en assurant des sauvegardes régulières des données.
